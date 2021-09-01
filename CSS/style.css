@@ -1,0 +1,29 @@
+/* p {
+   background-color: aqua;
+   border-left: solid 5px blue;
+   padding: 15px;
+} */
+/* #P1{
+    color: #0dd40d;
+}
+p {
+    color: red;
+}
+#P7{
+    color: cornflowerblue;
+}
+#P8 {
+    background-color:powderblue;
+    font-size: 15px;
+}
+span {
+    color:gold;
+    background-color: grey;
+    font-size: 12px;
+} */
+
+p {
+    border: solid;
+    border-radius: 8px;
+    padding: 10px;
+}
